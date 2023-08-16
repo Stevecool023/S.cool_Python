@@ -10,6 +10,6 @@ def main():
     x = eval(input('Enter a number between 0 and 1: '))
     k = eval(input("What constant should I use? "))
     for i in range (n):
-        x = k * x * (1 - x)
+        x = k * x - x * x
         print(x)
 main()
