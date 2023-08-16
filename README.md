@@ -4,6 +4,7 @@ They range from simple to complex codes each performing a specific task.
 
         This project repository includes:
 > A simple program illustrating chaotic behavior.
+> A program converting temperature from degrees celsius to degree fahrenheit.
 
 
 # Stephen@karanja.
