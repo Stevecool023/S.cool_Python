@@ -23,7 +23,8 @@ def main():
         principal = k + (principal * (1 + rate))
 
     print()
-    print(f"Congrats! Your investment after", n, "years is", principal)
+    print(f"Congrats! Your investment after", n, end=' ')
+    print(f"years is: ", principal)
     print()
 
 main()
