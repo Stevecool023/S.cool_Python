@@ -6,5 +6,6 @@ They range from simple to complex codes each performing a specific task.
 > A simple program illustrating chaotic behavior.
 > A program converting temperature from degrees celsius to degree fahrenheit.
 > A code that finds the average of two numbers.
+> A program that calculates the compound interest.
 
 # Stephen@karanja.
