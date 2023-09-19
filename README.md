@@ -10,5 +10,6 @@ They range from simple to complex codes each performing a specific task.
 > A program that outputs every second for 12 hours.
 > A program that returns solution for division and its remainder.
 > A program that calculates real roots of a quadratic equation.
+> A program that calculates the factorial of a number.
 
 # Stephen@karanja.
