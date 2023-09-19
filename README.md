@@ -7,5 +7,8 @@ They range from simple to complex codes each performing a specific task.
 > A program converting temperature from degrees celsius to degree fahrenheit.
 > A code that finds the average of two numbers.
 > A program that calculates the compound interest.
+> A program that outputs every second for 12 hours.
+> A program that returns solution for division and its remainder.
+> A program that calculates real roots of a quadratic equation.
 
 # Stephen@karanja.
