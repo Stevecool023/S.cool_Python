@@ -16,5 +16,6 @@ They range from simple to complex codes each performing a specific task.
 > Quantity per square unit.
 > Calculate molecular weight of an atom.
 > Calculate distance of lightning after inputing speed and time.
+> Calculate cost of product, including shipping, overhead and manufacture.
 
 # Stephen@karanja.
