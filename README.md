@@ -13,5 +13,6 @@ They range from simple to complex codes each performing a specific task.
 > A program that calculates the factorial of a number.
 > Iterate over a certain range.
 > Calculate the volume and surface area of an inputed radius.
+> Quantity per square unit.
 
 # Stephen@karanja.
