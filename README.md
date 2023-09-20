@@ -11,5 +11,6 @@ They range from simple to complex codes each performing a specific task.
 > A program that returns solution for division and its remainder.
 > A program that calculates real roots of a quadratic equation.
 > A program that calculates the factorial of a number.
+> Iterate over a certain range.
 
 # Stephen@karanja.
