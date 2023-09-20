@@ -15,5 +15,6 @@ They range from simple to complex codes each performing a specific task.
 > Calculate the volume and surface area of an inputed radius.
 > Quantity per square unit.
 > Calculate molecular weight of an atom.
+> Calculate distance of lightning after inputing speed and time.
 
 # Stephen@karanja.
