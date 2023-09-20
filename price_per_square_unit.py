@@ -14,16 +14,16 @@ r = float(input("Enter radius: "))
 units = str(input("Enter radius units(cm, m, inch): "))
 
 if units == "cm" or units == "centimetres":
-    r = r/2.54
+    Area = math.pi * (r/2.54)**2
 elif units == "m" or units == "metres":
-    r = r/.0254
+    Area = math.pi * (r/.0254)**2
 elif units == "inch" or units == "inches":
-    r = r
+    Area = math.pi * r**2
 else:
-    print("Please enter radius of units: inch/inches, cm/centimetres "
-    "m/metres")
+    print("Please enter radius of units: inch/inches, cm/centimetres"
+    ", m/metres")
+    print()
 
-Area = math.pi * r**2
 inch_cost = Cost / Area
 
 print("The cost per square inch of this pizza is: ", inch_cost)
