@@ -19,5 +19,6 @@ They range from simple to complex codes each performing a specific task.
 > Calculate cost of product, including shipping, overhead and manufacture.
 > Calculate the gradient/slope of a line.
 > Calculate distance between two points in a Cartesian plane; Pythagorean theorem.
+> Evaluate the value of epact, i.e., the number of days by which the solar year exceeds the lunar year in a certain calender year.
 
 # Stephen@karanja.
