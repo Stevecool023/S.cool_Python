@@ -26,5 +26,6 @@ They range from simple to complex codes each performing a specific task.
 > Sum of cubes of the first n natural numbers.\
 > Calculate sum of inputed numbers.\
 > Determine the average of entered numbers.\
+> Calculate the approximate value for pi using Leibniz formula for pi. Number of terms are entered by the user.\
 
 # Stephen@karanja.
