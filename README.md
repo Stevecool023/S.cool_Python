@@ -23,5 +23,6 @@ They range from simple to complex codes each performing a specific task.
 > Calculate the area of a triangle.
 > Length of ladder leaning against a wall.
 > Sum of the first n natural numbers.
+> Sum of cubes of the first n natural numbers.
 
 # Stephen@karanja.
