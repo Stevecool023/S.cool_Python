@@ -27,5 +27,6 @@ They range from simple to complex codes each performing a specific task.
 > Calculate sum of inputed numbers.\
 > Determine the average of entered numbers.\
 > Calculate the approximate value for pi using Leibniz formula for pi. Number of terms are entered by the user.\
+> Display the nth fibonacci number where n is given by the user as input.\
 
 # Stephen@karanja.
