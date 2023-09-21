@@ -4,10 +4,10 @@ They range from simple to complex codes each performing a specific task.
 
         This project repository includes:
 > A simple program illustrating chaotic behavior.
-> A program converting temperature from degrees celsius to degree fahrenheit.
-> A code that finds the average of two numbers.
-> A program that calculates the compound interest.
-> A program that outputs every second for 12 hours.
+\n> A program converting temperature from degrees celsius to degree fahrenheit.
+\n> A code that finds the average of two numbers.
+\n> A program that calculates the compound interest.
+\n> A program that outputs every second for 12 hours.
 > A program that returns solution for division and its remainder.
 > A program that calculates real roots of a quadratic equation.
 > A program that calculates the factorial of a number.
@@ -24,5 +24,7 @@ They range from simple to complex codes each performing a specific task.
 > Length of ladder leaning against a wall.
 > Sum of the first n natural numbers.
 > Sum of cubes of the first n natural numbers.
+> Calculate sum of inputed numbers.
+> Determine the average of entered numbers.
 
 # Stephen@karanja.
